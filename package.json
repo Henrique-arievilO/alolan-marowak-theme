@@ -1,0 +1,22 @@
+{
+  "name": "alolan-marowak-theme",
+  "displayName": "Alolan Marowak Theme",
+  "description": "Tema inspirado no Pokemon Marowak de Alola",
+  "version": "0.0.1",
+  "publisher": "Henrique Oliveira",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Alolan Marowak Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme.json"
+      }
+    ]
+  }
+}
