@@ -16,8 +16,8 @@ Abrange diversos escopos e linguagens, com regras personalizadas para CSS, JavaS
 Inspirado nos tons profundos e misteriosos, o Alolan Marowak Theme traz um visual elegante, perfeito para ambientes de desenvolvimento tanto em modo escuro quanto em alta luminosidade.
 
 ## Screenshots
-Aqui você pode inserir capturas de tela demonstrando o tema em ação.
-Screenshot
+
+(Em breve)
 
 ## Instalação
 
@@ -46,7 +46,7 @@ Em seguida, abra o repositório no VS Code e pressione F5 para carregar uma nova
 code --install-extension alolan-marowak-theme-x.x.x.vsix
 ```
 
-- **Marketplace do VS Code**:
+- **Marketplace do VS Code**: (Em breve)
 
 Basta pesquisar por Alolan Marowak Theme na aba de extensões do VS Code e instalar.
 
